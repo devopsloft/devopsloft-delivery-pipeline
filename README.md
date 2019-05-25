@@ -1,3 +1,3 @@
 # The Delivery Pipeline for the devopsloft app
 
-![DevOps Loft](logo.png?raw=true "DevOps Loft Logo")
+<img src="http://www.devopsloft.io/static/logo.png" alt="drawing" width="250" hight="250"/>
