@@ -1,2 +1,4 @@
+.idea/*
 .vagrant/*
 *.log
+venv3/*
